@@ -1,0 +1,15 @@
+body {
+    background-color:antiquewhite;
+}
+
+h1 {
+    color:aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    color:tomato;
+    border: 2px solid red;
+    padding: 30px;
+    margin: 15px;
+}
